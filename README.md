@@ -21,5 +21,5 @@
 <img src="https://github.com/user-attachments/assets/9b75c21f-ab27-4e07-ae9b-574cc694d6d0" width="80" height="80"/>
 
 ## Meus Certificados:
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/69d44792-455f-47fc-a01d-edc2700f8def" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/69d44792-455f-47fc-a01d-edc2700f8def" />
 
