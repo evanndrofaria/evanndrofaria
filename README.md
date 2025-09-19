@@ -19,3 +19,6 @@
 
 ## Empresa que atuo:
 <img src="https://github.com/user-attachments/assets/9b75c21f-ab27-4e07-ae9b-574cc694d6d0" width="80" height="80"/>
+
+## Meus Certificados:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f95a5e0-b1d0-4527-b764-d4c69fbcc0f3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
