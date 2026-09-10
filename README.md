@@ -1,25 +1,144 @@
-# E ai pessoal, me chamo Evandro Faria !
-## Bem-vindo ao meu perfil GitHub 👋
+<div align="center">
 
-- 🔭 Atualmente trabalho na Adaga.Digital
-- 🌱 Estudo Tecnologia de Análise e Desenvolvimento de Sistemas pela Facens Sorocaba
-- ⚡ Curiosidades: Por hobbie estou estudando programação de jogos com a plataforma Unreal Engine
+# Evandro Faria
 
-## Estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="40"/>
-  
-## Contatos:
-<div>
-<a href="https://www.twitch.tv/evanndrofaria" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/faria-evandro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+### Software Development · Web · Game Development
+
+Desenvolvedor em formação, construindo projetos e explorando diferentes áreas da tecnologia.
+
+<br>
+
+<a href="https://www.linkedin.com/in/faria-evandro">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.twitch.tv/evanndrofaria">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+</a>
+
 </div>
 
-## Empresa que atuo:
-<img src="https://github.com/user-attachments/assets/9b75c21f-ab27-4e07-ae9b-574cc694d6d0" width="80" height="80"/>
+<br>
 
-## Meus Certificados:
-<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/69d44792-455f-47fc-a01d-edc2700f8def" />
+## Sobre
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FACENS**, com interesse em desenvolvimento de software, aplicações web e engenharia de sistemas.
+
+Atualmente faço parte da **Adaga.Digital**, onde amplio minha experiência profissional enquanto continuo desenvolvendo projetos e estudando novas tecnologias.
+
+Fora do desenvolvimento web, também exploro **Game Development com Unreal Engine**, trabalhando com sistemas de gameplay, inteligência artificial, interfaces e construção de experiências interativas.
+
+Meu objetivo é evoluir constantemente como desenvolvedor e transformar ideias em projetos funcionais, bem estruturados e úteis.
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,flutter,mysql,git,github,vscode,unreal&theme=dark" alt="Tecnologias"/>
+
+</div>
+
+<br>
+
+**Linguagens**
+
+`Java` · `JavaScript` · `TypeScript` · `PHP`
+
+**Desenvolvimento & Ferramentas**
+
+`Flutter` · `MySQL` · `Git` · `GitHub` · `VS Code`
+
+**Game Development**
+
+`Unreal Engine` · `Blueprints` · `Gameplay Systems` · `Game AI` · `UI/UX`
+
+<br>
+
+## Atualmente
+
+```text
+> Estudando        Análise e Desenvolvimento de Sistemas
+> Faculdade        FACENS — Sorocaba, SP
+> Trabalhando      Adaga.Digital
+> Explorando       Software Engineering & Game Development
+> Game Engine      Unreal Engine
+```
+
+<br>
+
+## Projetos
+
+Aqui você encontrará projetos relacionados a desenvolvimento web, sistemas, estudos acadêmicos, experimentos e game development.
+
+Algumas das áreas que fazem parte dos meus projetos:
+
+* Desenvolvimento de aplicações e sistemas web
+* APIs, banco de dados e arquitetura de aplicações
+* Interfaces responsivas e experiência do usuário
+* Automação e ferramentas internas
+* Sistemas e mecânicas utilizando Unreal Engine
+
+<br>
+
+## Game Development
+
+<div align="left">
+
+Uma das áreas que exploro além do desenvolvimento tradicional é a criação de jogos utilizando **Unreal Engine**.
+
+Tenho estudado diferentes áreas envolvidas na construção de um jogo:
+
+`Blueprints` · `Gameplay Programming` · `Artificial Intelligence` · `UI/UX` · `Level Design` · `Game Design`
+
+O objetivo é entender não apenas como implementar mecânicas, mas como diferentes sistemas trabalham juntos para formar uma experiência completa.
+
+</div>
+
+<br>
+
+## Certificações
+
+<div align="left">
+
+<img
+src="https://github.com/user-attachments/assets/69d44792-455f-47fc-a01d-edc2700f8def"
+width="110"
+alt="Certificação"
+/>
+
+</div>
+
+<br>
+
+## Experiência
+
+<div align="left">
+
+<img
+src="https://github.com/user-attachments/assets/9b75c21f-ab27-4e07-ae9b-574cc694d6d0"
+width="75"
+alt="Adaga.Digital"
+/>
+
+**Adaga.Digital**
+
+Desenvolvimento e tecnologia.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### Building. Learning. Improving.
+
+Transformando aprendizado em projetos reais.
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=evanndrofaria\&style=flat-square\&label=Profile+Views)
+
+</div>
