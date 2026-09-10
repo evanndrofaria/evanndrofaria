@@ -116,8 +116,8 @@ alt="Certificação"
 <div align="left">
 
 <img
-src="https://github.com/user-attachments/assets/9b75c21f-ab27-4e07-ae9b-574cc694d6d0"
-width="75"
+src="https://github.com/user-attachments/assets/98ef4adb-220b-4366-bc53-6da16e71fdcd"
+width="110"
 alt="Adaga.Digital"
 />
 
