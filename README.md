@@ -2,9 +2,9 @@
 
 # Evandro Faria
 
-### Software Development · Web · Game Development
+### Software Developer · Full Stack · Game Development
 
-Desenvolvedor em formação, construindo projetos e explorando diferentes áreas da tecnologia.
+Desenvolvedor em formação, construindo soluções de software e explorando o desenvolvimento de jogos com diferentes engines.
 
 <br>
 
@@ -21,13 +21,17 @@ Desenvolvedor em formação, construindo projetos e explorando diferentes áreas
 
 ## Sobre
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FACENS**, com interesse em desenvolvimento de software, aplicações web e engenharia de sistemas.
+Sou desenvolvedor em formação, com experiência profissional em **Tecnologia da Informação, suporte e infraestrutura**, atualmente direcionando minha carreira para o **desenvolvimento de software**.
 
-Atualmente faço parte da **Adaga.Digital**, onde amplio minha experiência profissional enquanto continuo desenvolvendo projetos e estudando novas tecnologias.
+Estou cursando **Análise e Desenvolvimento de Sistemas na FACENS**, onde desenvolvo conhecimentos em programação, Engenharia de Software, desenvolvimento web, bancos de dados, análise de requisitos, modelagem, arquitetura e desenvolvimento de projetos.
 
-Fora do desenvolvimento web, também exploro **Game Development com Unreal Engine**, trabalhando com sistemas de gameplay, inteligência artificial, interfaces e construção de experiências interativas.
+Também iniciei o curso de **Tecnologia em Jogos Digitais na UNINTER**, ampliando minha formação para áreas como desenvolvimento de jogos, programação de gameplay, inteligência artificial, interfaces e desenvolvimento de experiências interativas.
 
-Meu objetivo é evoluir constantemente como desenvolvedor e transformar ideias em projetos funcionais, bem estruturados e úteis.
+No desenvolvimento de software, tenho trabalhado e estudado principalmente com **Java, PHP, JavaScript, TypeScript, SQL e desenvolvimento web**, utilizando projetos próprios e acadêmicos para transformar conhecimento em experiência prática.
+
+Paralelamente, exploro **Game Development utilizando Unreal Engine, Unity e Godot**, estudando diferentes abordagens para criação de gameplay, sistemas interativos, inteligência artificial, interfaces e construção de experiências digitais.
+
+Meu objetivo é continuar evoluindo como desenvolvedor, construindo software e experiências interativas que sejam funcionais, bem estruturadas e tecnicamente interessantes.
 
 <br>
 
@@ -35,49 +39,68 @@ Meu objetivo é evoluir constantemente como desenvolvedor e transformar ideias e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,flutter,mysql,git,github,vscode,unreal&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,flutter,mysql,git,github,vscode,unreal,unity,godot&theme=dark" alt="Tecnologias"/>
 
 </div>
 
 <br>
 
-**Linguagens**
+### Linguagens
 
-`Java` · `JavaScript` · `TypeScript` · `PHP`
+`Java` · `JavaScript` · `TypeScript` · `PHP` · `SQL`
 
-**Desenvolvimento & Ferramentas**
+### Desenvolvimento
 
-`Flutter` · `MySQL` · `Git` · `GitHub` · `VS Code`
+`Web Development` · `REST APIs` · `MVC` · `MySQL` · `Git` · `GitHub`
 
-**Game Development**
+### Engenharia de Software
 
-`Unreal Engine` · `Blueprints` · `Gameplay Systems` · `Game AI` · `UI/UX`
+`Análise de Requisitos` · `UML` · `Banco de Dados` · `Prototipação` · `MVP` · `Scrum`
+
+### Game Development
+
+`Unreal Engine` · `Unity` · `Godot` · `Blueprints` · `Gameplay Systems` · `Game AI` · `UI/UX` · `Level Design` · `Game Design`
+
+### Ferramentas
+
+`Flutter` · `VS Code` · `GitHub`
 
 <br>
 
 ## Atualmente
 
 ```text
-> Estudando        Análise e Desenvolvimento de Sistemas
-> Faculdade        FACENS — Sorocaba, SP
-> Trabalhando      Adaga.Digital
-> Explorando       Software Engineering & Game Development
-> Game Engine      Unreal Engine
+> Formação 1       Análise e Desenvolvimento de Sistemas
+> Instituição      FACENS — Sorocaba, SP
+
+> Formação 2       Tecnologia em Jogos Digitais
+> Instituição      UNINTER
+
+> Trabalho         Adaga.Digital
+> Área             Tecnologia da Informação
+
+> Foco             Software Development & Full Stack
+> Game Development Unreal Engine · Unity · Godot
 ```
 
 <br>
 
 ## Projetos
 
-Aqui você encontrará projetos relacionados a desenvolvimento web, sistemas, estudos acadêmicos, experimentos e game development.
+Este perfil reúne projetos **profissionais, acadêmicos e pessoais**, desenvolvidos como parte da minha evolução em tecnologia.
 
-Algumas das áreas que fazem parte dos meus projetos:
+Entre os projetos e áreas que venho explorando:
 
 * Desenvolvimento de aplicações e sistemas web
-* APIs, banco de dados e arquitetura de aplicações
-* Interfaces responsivas e experiência do usuário
-* Automação e ferramentas internas
-* Sistemas e mecânicas utilizando Unreal Engine
+* Desenvolvimento backend e integração com bancos de dados
+* APIs e arquitetura de aplicações
+* Desenvolvimento utilizando Java, PHP e JavaScript
+* Interfaces e experiências de usuário
+* Automação e ferramentas para necessidades específicas
+* Projetos acadêmicos baseados em problemas reais
+* Desenvolvimento de jogos e sistemas interativos
+* Gameplay, inteligência artificial e interfaces
+* Desenvolvimento utilizando diferentes engines e tecnologias
 
 <br>
 
@@ -85,15 +108,37 @@ Algumas das áreas que fazem parte dos meus projetos:
 
 <div align="left">
 
-Uma das áreas que exploro além do desenvolvimento tradicional é a criação de jogos utilizando **Unreal Engine**.
+Além do desenvolvimento de software, estudo **Game Development utilizando diferentes engines**, explorando suas características, ferramentas e possibilidades.
 
-Tenho estudado diferentes áreas envolvidas na construção de um jogo:
+### Engines
 
-`Blueprints` · `Gameplay Programming` · `Artificial Intelligence` · `UI/UX` · `Level Design` · `Game Design`
+`Unreal Engine` · `Unity` · `Godot`
 
-O objetivo é entender não apenas como implementar mecânicas, mas como diferentes sistemas trabalham juntos para formar uma experiência completa.
+### Áreas de estudo
+
+`Blueprints` · `Gameplay Programming` · `Artificial Intelligence` · `UI/UX` · `Level Design` · `Game Design` · `Game Systems`
+
+Tenho interesse em compreender não apenas a implementação de mecânicas individuais, mas também como diferentes sistemas de software, gameplay, inteligência artificial, interfaces e ambientes trabalham juntos para formar uma experiência completa.
+
+Atualmente, o **Unreal Engine** é uma das principais ferramentas que utilizo para explorar sistemas de gameplay e desenvolvimento de jogos, enquanto também estudo **Unity** e **Godot** para ampliar minha experiência com diferentes tecnologias e pipelines de desenvolvimento.
 
 </div>
+
+<br>
+
+## Formação
+
+### 🎓 Análise e Desenvolvimento de Sistemas
+
+**FACENS — Sorocaba, SP**
+
+Formação com foco em desenvolvimento de software, programação, Engenharia de Software, bancos de dados, desenvolvimento web, análise de requisitos, modelagem e desenvolvimento de projetos.
+
+### 🎮 Tecnologia em Jogos Digitais
+
+**UNINTER**
+
+Formação voltada ao desenvolvimento de jogos digitais e às tecnologias utilizadas na criação de experiências interativas.
 
 <br>
 
@@ -121,9 +166,11 @@ width="110"
 alt="Adaga.Digital"
 />
 
-**Adaga.Digital**
+### Adaga.Digital
 
-Desenvolvimento e tecnologia.
+Atuação profissional na área de **Tecnologia da Informação**, envolvendo suporte, infraestrutura, resolução de problemas e desenvolvimento de soluções tecnológicas.
+
+A experiência profissional complementa minha formação em desenvolvimento ao proporcionar contato com problemas reais, usuários, sistemas e ambientes de tecnologia.
 
 </div>
 
@@ -133,9 +180,9 @@ Desenvolvimento e tecnologia.
 
 <div align="center">
 
-### Building. Learning. Improving.
+### Building. Learning. Creating.
 
-Transformando aprendizado em projetos reais.
+Transformando conhecimento em projetos reais.
 
 <br>
 
