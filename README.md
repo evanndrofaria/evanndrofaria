@@ -2,9 +2,9 @@
 
 # Evandro Faria
 
-### Software Developer · Full Stack · Game Development
+### Software Development · IT Support · Game Development
 
-Desenvolvedor em formação, construindo soluções de software e explorando o desenvolvimento de jogos com diferentes engines.
+Desenvolvedor em formação, unindo experiência profissional em TI, desenvolvimento de sistemas e estudos em desenvolvimento de software e jogos.
 
 <br>
 
@@ -21,17 +21,17 @@ Desenvolvedor em formação, construindo soluções de software e explorando o d
 
 ## Sobre
 
-Sou desenvolvedor em formação, com experiência profissional em **Tecnologia da Informação, suporte e infraestrutura**, atualmente direcionando minha carreira para o **desenvolvimento de software**.
+Atuo profissionalmente na área de **Tecnologia da Informação**, principalmente com **suporte técnico e infraestrutura**, enquanto direciono minha formação e meus projetos para o **desenvolvimento de software**.
 
-Estou cursando **Análise e Desenvolvimento de Sistemas na FACENS**, onde desenvolvo conhecimentos em programação, Engenharia de Software, desenvolvimento web, bancos de dados, análise de requisitos, modelagem, arquitetura e desenvolvimento de projetos.
+Na **Adaga.Digital**, trabalho com suporte aos usuários, preparação, configuração e formatação de computadores, suporte a ambientes e servidores Windows e gerenciamento de contas de e-mail corporativo.
 
-Também iniciei o curso de **Tecnologia em Jogos Digitais na UNINTER**, ampliando minha formação para áreas como desenvolvimento de jogos, programação de gameplay, inteligência artificial, interfaces e desenvolvimento de experiências interativas.
+Paralelamente às atividades de suporte, desenvolvo soluções internas para necessidades reais da empresa, incluindo sistemas de **controle de ponto** e **gestão de inventário**, utilizando principalmente **PHP e MySQL**.
 
-No desenvolvimento de software, tenho trabalhado e estudado principalmente com **Java, PHP, JavaScript, TypeScript, SQL e desenvolvimento web**, utilizando projetos próprios e acadêmicos para transformar conhecimento em experiência prática.
+Atualmente curso **Análise e Desenvolvimento de Sistemas na FACENS** e **Tecnologia em Jogos Digitais na UNINTER**. Neste semestre de ADS, também estou estudando **Java**, aprofundando meus conhecimentos em lógica de programação e programação orientada a objetos.
 
-Paralelamente, exploro **Game Development utilizando Unreal Engine, Unity e Godot**, estudando diferentes abordagens para criação de gameplay, sistemas interativos, inteligência artificial, interfaces e construção de experiências digitais.
+Também estudo **Inglês pelo programa New U-Best da UNINTER** e desenvolvimento de jogos por meio da criação de projetos e protótipos utilizando **Unreal Engine, Unity e Godot**.
 
-Meu objetivo é continuar evoluindo como desenvolvedor, construindo software e experiências interativas que sejam funcionais, bem estruturadas e tecnicamente interessantes.
+Meu objetivo é continuar evoluindo profissionalmente e ampliar minha atuação em **desenvolvimento de software, aplicações, sistemas e jogos digitais**.
 
 <br>
 
@@ -39,7 +39,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, construindo software e e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,flutter,mysql,git,github,vscode,unreal,unity,godot&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css,mysql,git,github,vscode,unreal,unity,godot&theme=dark" alt="Java, JavaScript, TypeScript, PHP, HTML, CSS, MySQL, Git, GitHub, VS Code, Unreal Engine, Unity e Godot"/>
 
 </div>
 
@@ -47,112 +47,77 @@ Meu objetivo é continuar evoluindo como desenvolvedor, construindo software e e
 
 ### Linguagens
 
-`Java` · `JavaScript` · `TypeScript` · `PHP` · `SQL`
+`PHP` · `JavaScript` · `Java` · `TypeScript`
 
-### Desenvolvimento
+> **Java** está sendo estudado atualmente na graduação em Análise e Desenvolvimento de Sistemas.  
+> **TypeScript** faz parte dos meus estudos em desenvolvimento.
 
-`Web Development` · `REST APIs` · `MVC` · `MySQL` · `Git` · `GitHub`
+### Desenvolvimento Web
 
-### Engenharia de Software
+`PHP` · `HTML` · `CSS` · `JavaScript`
 
-`Análise de Requisitos` · `UML` · `Banco de Dados` · `Prototipação` · `MVP` · `Scrum`
+### Banco de Dados
 
-### Game Development
+`MySQL`
 
-`Unreal Engine` · `Unity` · `Godot` · `Blueprints` · `Gameplay Systems` · `Game AI` · `UI/UX` · `Level Design` · `Game Design`
+`Queries` · `CRUD` · `Modelagem` · `Validação de Dados` · `Manutenção de Dados`
+
+### Versionamento
+
+`Git` · `GitHub` · `GitHub Actions`
 
 ### Ferramentas
 
-`Flutter` · `VS Code` · `GitHub`
+`VS Code` · `XAMPP` · `MySQL Workbench` · `FileZilla`
+
+### Suporte & Infraestrutura
+
+`Windows` · `Windows Server` · `Hardware` · `Troubleshooting` · `Suporte ao Usuário` · `E-mail Corporativo`
+
+### Game Development
+
+`Unreal Engine` · `Unity` · `Godot` · `Blueprints` · `Gameplay Systems` · `Game AI` · `UI/UX`
 
 <br>
 
 ## Atualmente
 
 ```text
-> Formação 1       Análise e Desenvolvimento de Sistemas
-> Instituição      FACENS — Sorocaba, SP
+evandro@server:~$ status
 
-> Formação 2       Tecnologia em Jogos Digitais
-> Instituição      UNINTER
+[WORK]
+Empresa ............ Adaga.Digital
+Área ............... Tecnologia da Informação
+Atuação ............ Suporte Técnico + Desenvolvimento Interno
 
-> Trabalho         Adaga.Digital
-> Área             Tecnologia da Informação
+[EDUCATION]
+ADS ................ FACENS
+Conclusão .......... 2028
 
-> Foco             Software Development & Full Stack
-> Game Development Unreal Engine · Unity · Godot
+Jogos Digitais ..... UNINTER
+Conclusão .......... 2029
+
+Java ............... Em formação acadêmica
+
+[ENGLISH]
+Curso .............. New U-Best / UNINTER
+Níveis ............. Basic · Intermediate · Advanced
+Carga horária ...... 126 horas
+Status ............. Em andamento
+
+[DEVELOPMENT]
+Web ................ PHP · JavaScript · HTML · CSS
+Database ........... MySQL
+Version Control .... Git · GitHub
+
+[GAME DEV]
+Engines ............ Unreal Engine · Unity · Godot
+
+[CAREER]
+Objetivo ........... Software · Apps · Sistemas · Jogos
+
+evandro@server:~$ █
 ```
-
-<br>
-
-## Projetos
-
-Este perfil reúne projetos **profissionais, acadêmicos e pessoais**, desenvolvidos como parte da minha evolução em tecnologia.
-
-Entre os projetos e áreas que venho explorando:
-
-* Desenvolvimento de aplicações e sistemas web
-* Desenvolvimento backend e integração com bancos de dados
-* APIs e arquitetura de aplicações
-* Desenvolvimento utilizando Java, PHP e JavaScript
-* Interfaces e experiências de usuário
-* Automação e ferramentas para necessidades específicas
-* Projetos acadêmicos baseados em problemas reais
-* Desenvolvimento de jogos e sistemas interativos
-* Gameplay, inteligência artificial e interfaces
-* Desenvolvimento utilizando diferentes engines e tecnologias
-
-<br>
-
-## Game Development
-
-<div align="left">
-
-Além do desenvolvimento de software, estudo **Game Development utilizando diferentes engines**, explorando suas características, ferramentas e possibilidades.
-
-### Engines
-
-`Unreal Engine` · `Unity` · `Godot`
-
-### Áreas de estudo
-
-`Blueprints` · `Gameplay Programming` · `Artificial Intelligence` · `UI/UX` · `Level Design` · `Game Design` · `Game Systems`
-
-Tenho interesse em compreender não apenas a implementação de mecânicas individuais, mas também como diferentes sistemas de software, gameplay, inteligência artificial, interfaces e ambientes trabalham juntos para formar uma experiência completa.
-
-Atualmente, o **Unreal Engine** é uma das principais ferramentas que utilizo para explorar sistemas de gameplay e desenvolvimento de jogos, enquanto também estudo **Unity** e **Godot** para ampliar minha experiência com diferentes tecnologias e pipelines de desenvolvimento.
-
-</div>
-
-<br>
-
-## Formação
-
-### 🎓 Análise e Desenvolvimento de Sistemas
-
-**FACENS — Sorocaba, SP**
-
-Formação com foco em desenvolvimento de software, programação, Engenharia de Software, bancos de dados, desenvolvimento web, análise de requisitos, modelagem e desenvolvimento de projetos.
-
-### 🎮 Tecnologia em Jogos Digitais
-
-**UNINTER**
-
-Formação voltada ao desenvolvimento de jogos digitais e às tecnologias utilizadas na criação de experiências interativas.
-
-<br>
-
-## Certificações
-
-<div align="left">
-
-<img
-src="https://github.com/user-attachments/assets/69d44792-455f-47fc-a01d-edc2700f8def"
-width="110"
-alt="Certificação"
-/>
-
-</div>
 
 <br>
 
@@ -168,11 +133,152 @@ alt="Adaga.Digital"
 
 ### Adaga.Digital
 
-Atuação profissional na área de **Tecnologia da Informação**, envolvendo suporte, infraestrutura, resolução de problemas e desenvolvimento de soluções tecnológicas.
+**Tecnologia da Informação · Prestador de Serviços (PJ)**
 
-A experiência profissional complementa minha formação em desenvolvimento ao proporcionar contato com problemas reais, usuários, sistemas e ambientes de tecnologia.
+Atuo principalmente em **suporte técnico e infraestrutura**, envolvendo:
+
+- Suporte técnico aos usuários
+- Diagnóstico e resolução de problemas de hardware e software
+- Preparação, configuração e formatação de computadores
+- Suporte a ambientes e servidores Windows
+- Criação e gerenciamento de contas de e-mail corporativo
+
+Paralelamente às atividades de suporte, também desenvolvo e mantenho **soluções internas** para necessidades da empresa.
+
+Entre os sistemas desenvolvidos estão:
+
+`Sistema de Controle de Ponto` · `Sistema de Gestão de Inventário`
+
+No desenvolvimento dessas soluções utilizo principalmente:
+
+`PHP` · `HTML` · `CSS` · `JavaScript`
+
+Para persistência e gerenciamento de dados:
+
+`MySQL` · `MySQL Workbench`
+
+Ferramentas utilizadas no desenvolvimento, versionamento e publicação:
+
+`XAMPP` · `VS Code` · `Git` · `GitHub` · `FileZilla`
 
 </div>
+
+<br>
+
+## Projetos
+
+Este perfil reúne projetos **acadêmicos, pessoais e estudos de desenvolvimento**, utilizados para aplicar na prática os conhecimentos adquiridos durante minha formação.
+
+### Software Development
+
+- Aplicações e sistemas web
+- Desenvolvimento backend com PHP
+- Integração com bancos de dados
+- CRUD e regras de negócio
+- Interfaces responsivas
+- Versionamento com Git e GitHub
+- Projetos acadêmicos baseados em problemas reais
+- Soluções internas desenvolvidas para necessidades reais
+
+### Game Development
+
+- Sistemas de gameplay
+- Inteligência artificial
+- Interfaces e HUD
+- Interação e movimentação
+- Level Design
+- Protótipos 2D e 3D
+
+<br>
+
+## Game Development
+
+Além do desenvolvimento de software, estudo **desenvolvimento de jogos** por meio da criação de projetos e protótipos utilizando diferentes engines.
+
+### Engines
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=unreal,unity,godot&theme=dark" alt="Unreal Engine, Unity e Godot"/>
+
+</div>
+
+<br>
+
+### Unreal Engine
+
+`Blueprints` · `Gameplay Systems` · `Game AI` · `UI/HUD` · `Interaction` · `Level Design`
+
+### Áreas de estudo
+
+`Gameplay Programming` · `Artificial Intelligence` · `UI/UX` · `Level Design` · `Game Design` · `Game Systems`
+
+Utilizo projetos e protótipos para compreender como diferentes sistemas de gameplay, inteligência artificial, interfaces, ambientes e lógica trabalham juntos na construção de uma experiência completa.
+
+Atualmente, a **Unreal Engine** é uma das principais ferramentas que utilizo nos estudos de desenvolvimento de jogos, enquanto **Unity e Godot** ampliam meu contato com diferentes tecnologias, engines e pipelines de desenvolvimento.
+
+<br>
+
+## Formação
+
+### Análise e Desenvolvimento de Sistemas
+
+**Centro Universitário FACENS — Sorocaba, SP**
+
+`Em andamento` · Conclusão prevista: **2028**
+
+Formação com foco em desenvolvimento de software, programação, Engenharia de Software, bancos de dados, desenvolvimento web, análise de requisitos, modelagem e desenvolvimento de projetos.
+
+<br>
+
+### Tecnologia em Jogos Digitais
+
+**Centro Universitário Internacional UNINTER**
+
+`Em andamento` · Conclusão prevista: **2029**
+
+Formação voltada ao desenvolvimento de jogos digitais e às tecnologias utilizadas na criação de experiências interativas.
+
+<br>
+
+## Idiomas
+
+### Inglês — New U-Best
+
+**Centro Universitário Internacional UNINTER**
+
+`Em andamento`
+
+Programa de língua inglesa estruturado nos níveis:
+
+`Basic` · `Intermediate` · `Advanced`
+
+**Carga horária total: 126 horas**
+
+<br>
+
+## Certificações
+
+<div align="left">
+
+<img
+src="https://github.com/user-attachments/assets/69d44792-455f-47fc-a01d-edc2700f8def"
+width="110"
+alt="Certificações"
+/>
+
+</div>
+
+<br>
+
+**Cisco — Network Technician Career Path**  
+`2025`
+
+**Cisco — Cyber Threat Management**  
+`2025`
+
+**SENAI SP — Lógica de Programação**  
+`2024`
 
 <br>
 
@@ -182,10 +288,10 @@ A experiência profissional complementa minha formação em desenvolvimento ao p
 
 ### Building. Learning. Creating.
 
-Transformando conhecimento em projetos reais.
+`Transformando conhecimento em projetos reais.`
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=evanndrofaria\&style=flat-square\&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=evanndrofaria&style=flat-square&label=Profile+Views)
 
 </div>
